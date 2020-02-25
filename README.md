@@ -1,3 +1,3 @@
 # Week-1
 Jamie Crowther
-Updating to try figure out some info that I am not quite getting.
+This is where the info written at the TOP (ReadMe) area of VSCode appears
